@@ -27,5 +27,6 @@ else:
     # 상태 코드가 200이 아닐 경우 에러 메시지 출력
     print(f"Failed to retrieve the page. Status code: {response.status_code}")
 
+# import
 
 
